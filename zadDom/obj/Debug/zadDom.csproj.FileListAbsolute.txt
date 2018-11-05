@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Zmienne\zadDom\bin\Debug\zadDom.exe.config
+C:\Users\sandr\source\repos\Zmienne\zadDom\bin\Debug\zadDom.exe
+C:\Users\sandr\source\repos\Zmienne\zadDom\bin\Debug\zadDom.pdb
+C:\Users\sandr\source\repos\Zmienne\zadDom\obj\Debug\zadDom.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\Zmienne\zadDom\obj\Debug\zadDom.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Zmienne\zadDom\obj\Debug\zadDom.exe
+C:\Users\sandr\source\repos\Zmienne\zadDom\obj\Debug\zadDom.pdb
